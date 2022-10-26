@@ -1,0 +1,1 @@
+echo 127.0.0.1 youtube.com >> C:\Windows\system32\drivers\etc\hosts && echo 127.0.0.1 www.youtube.com >> C:\Windows\system32\drivers\etc\hosts

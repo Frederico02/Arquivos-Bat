@@ -1,0 +1,1 @@
+xcopy /E /Y /Z /Q /C Q:\#\test\STUFF C:\Users\frederico.almeida\Documents\teste
